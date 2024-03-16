@@ -1,0 +1,43 @@
+[
+    {
+        "nombre": "Cabaña 1",
+        "capacidad": 2,
+        "valorNoche": 28000
+    },
+    {
+        "nombre": "Cabaña 2",
+        "capacidad": 3,
+        "valorNoche": 32000
+    },
+    {
+        "nombre": "Cabaña 3",
+        "capacidad": 4,
+        "valorNoche": 36000
+    },
+    {
+        "nombre": "Cabaña 4",
+        "capacidad": 5,
+        "valorNoche": 42000
+    },
+    {
+        "nombre": "Cabaña 5",
+        "capacidad": 6,
+        "valorNoche": 46000
+    },
+    {
+        "nombre": "Cabaña 6",
+        "capacidad": 7,
+        "valorNoche": 50000
+    },
+    { 
+        "nombre": "Cabaña 7",
+        "capacidad": 8,
+        "valorNoche": 55000
+    }
+  ]
+
+
+
+
+
+     

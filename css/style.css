@@ -1,7 +1,23 @@
 body {
   font-family: Arial, sans-serif;
   margin: 20px;
-  background-color: lightgray;
+  background-image: url(../img/cabanias_complejo.jpg);
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+}
+
+.main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: start;
+}
+
+.titulo {
+  text-align: center;
+  color: black;
+  background-color: #007bff;
+  width: 500px;
 }
 
 label {
@@ -28,23 +44,27 @@ button:hover {
   background-color: #0056b3;
 }
 
-#resultado {
-  margin-top: 20px;
-  background-color: darkcyan;
+.vistaPrevia {
+  margin: 3px;
   font-size: 20px;
   border: 2px solid;
+  border-radius: 5px;
   flex: 1;
   padding: 15px;
   box-sizing: border-box;
+  height: 450px;
 }
 
-.divFormulario {
+.formularioContainer {
+  display: flex;
+  margin: 3px;
   font-size: 20px;
   border: 2px solid;
+  border-radius: 5px;
   flex: 1;
   padding: 15px;
   box-sizing: border-box;
-  background-color: aquamarine;
+  height: 450px;
 }
 
 
